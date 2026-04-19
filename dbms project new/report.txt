@@ -1,0 +1,47 @@
+Info: Processing symbol 'A1:Module:Arduino_Nano'.
+Info: Processing symbol 'R3:'.
+Info: Processing symbol 'BZ1:'.
+Info: Processing symbol 'D1:'.
+Info: Processing symbol 'J1:Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical'.
+Info: Processing symbol 'J2:Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical'.
+Info: Processing symbol 'J3:'.
+Info: Processing symbol 'R1:'.
+Info: Processing symbol 'R2:'.
+Info: Processing symbol 'SW1:'.
+Info: Processing symbol 'U1:Display:NHD-C0220BiZ-FSRGB'.
+Add net Net-(A1-D6).
+Reconnected A1 pin 9 from unconnected-(A1-D6-Pad9) to Net-(A1-D6).
+Add net Net-(A1-SCL/A5).
+Reconnected A1 pin 24 from unconnected-(A1-SCL/A5-Pad24) to Net-(A1-SCL/A5).
+Add net Net-(A1-D2).
+Reconnected A1 pin 5 from unconnected-(A1-D2-Pad5) to Net-(A1-D2).
+Add net Net-(A1-D7).
+Reconnected A1 pin 10 from unconnected-(A1-D7-Pad10) to Net-(A1-D7).
+Add net Net-(A1-D5).
+Add net Net-(A1-D11/COPI).
+Reconnected A1 pin 14 from unconnected-(A1-D11/COPI-Pad14) to Net-(A1-D11/COPI).
+Reconnected A1 pin 23 from unconnected-(A1-SDA/A4-Pad23) to Net-(A1-SDA/A4).
+Add net Net-(BZ1--).
+Reconnected A1 pin 29 from Net-(U1-V_{SS}) to Net-(BZ1--).
+Reconnected A1 pin 4 from Net-(U1-V_{SS}) to Net-(BZ1--).
+Add net Net-(A1-SDA/A4).
+Reconnected A1 pin 8 from unconnected-(A1-D5-Pad8) to Net-(A1-D5).
+Add net Net-(A1-D8).
+Reconnected A1 pin 11 from unconnected-(A1-D8-Pad11) to Net-(A1-D8).
+Reconnected U1 pin 2 from unconnected-(U1-SCL-Pad2) to Net-(A1-SCL/A5).
+Reconnected U1 pin 3 from unconnected-(U1-SDA-Pad3) to Net-(A1-SDA/A4).
+Reconnected U1 pin 4 from Net-(U1-V_{SS}) to Net-(BZ1--).
+Removed unused net Net-(U1-V_{SS}).
+Removed unused net unconnected-(A1-D11{slash}COPI-Pad14).
+Removed unused net unconnected-(A1-D2-Pad5).
+Removed unused net unconnected-(A1-D5-Pad8).
+Removed unused net unconnected-(A1-D6-Pad9).
+Removed unused net unconnected-(A1-D7-Pad10).
+Removed unused net unconnected-(A1-D8-Pad11).
+Removed unused net unconnected-(A1-SCL{slash}A5-Pad24).
+Removed unused net unconnected-(A1-SDA{slash}A4-Pad23).
+Removed unused net unconnected-(U1-SCL-Pad2).
+Removed unused net unconnected-(U1-SDA-Pad3).
+
+
+Info: Total warnings: 0, errors: 0.
